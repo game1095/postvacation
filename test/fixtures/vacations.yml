@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vacation_type: MyString
+  startdate: 2019-09-23
+  enddate: 2019-09-23
+  remark: MyText
+
+two:
+  vacation_type: MyString
+  startdate: 2019-09-23
+  enddate: 2019-09-23
+  remark: MyText
